@@ -1,0 +1,30 @@
+{
+    "entities":  
+    [
+        {
+            "name": "explosion",
+            "key": "explosion",
+            "url": "./assets/explosion.png",
+            "spriteSheet": { "frameWidth": 64, "frameHeight": 32, "startFrame": 0, "endFrame": 9 }
+        },
+        {
+            "name": "rocket",
+            "key": "rocket",
+            "url": "./assets/rocket.png"
+        },
+        {
+            "name": "spaceship",
+            "key": "spaceship",
+            "url": "./assets/spaceship.png"
+        },
+        {
+            "name": "starfield",
+            "key": "starfield",
+            "url": "./assets/starfield.png",
+            "tileSprite": { "x": 0, "y": 0, "width": 640, "height": 480 }
+        },
+        {
+            "name": "UI"
+        }
+    ]
+}
